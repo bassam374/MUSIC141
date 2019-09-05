@@ -3,4 +3,4 @@ prefix=$
 game=$alone
 stayinchannel=false
 songinstatus=true
-token=Mzk1MzA3Mjc3ODI3MTc4NDk2.XXEtbg.IoV89TFdQ4P0GQDq_pvkF_W9zFQ
+token=SSq0_0U3fyOhrY0mXqv_HFgjcWf42l3c
